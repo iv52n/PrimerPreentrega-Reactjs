@@ -1,0 +1,17 @@
+#logo{
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#cate{
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+#greeting{
+    text-align: center;
+    font-size: 2.5rem;
+}
+#car{
+    font-size: 1.3rem;
+}
